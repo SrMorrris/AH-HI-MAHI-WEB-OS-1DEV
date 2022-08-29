@@ -1,7 +1,5 @@
 # AH-HI-MAHI-WEB-OS-1DEV
-A compilation about all my bootstrap web-pages.
-
- Ah-hi-mahi-web/OS contains every single one web-page i have build in bootstrap. 
+The web-page files for my first MIDI device.
 
 Using the Jekyll style theme on bootstrap 4.0. 
 
@@ -22,3 +20,4 @@ Using the Jekyll style theme on bootstrap 4.0.
 html for resize your images,change the text, etc.. 
 
 # Enjoy your web-page!!
+
